@@ -1,0 +1,14 @@
+D:\Documentos\01 - Meus Projetos Dev\Teste-Mottu\Mottu-Projeto-Console\Mottu-Projeto-Console\bin\Debug\net6.0\Mottu-Projeto-Console.exe
+D:\Documentos\01 - Meus Projetos Dev\Teste-Mottu\Mottu-Projeto-Console\Mottu-Projeto-Console\bin\Debug\net6.0\Mottu-Projeto-Console.deps.json
+D:\Documentos\01 - Meus Projetos Dev\Teste-Mottu\Mottu-Projeto-Console\Mottu-Projeto-Console\bin\Debug\net6.0\Mottu-Projeto-Console.runtimeconfig.json
+D:\Documentos\01 - Meus Projetos Dev\Teste-Mottu\Mottu-Projeto-Console\Mottu-Projeto-Console\bin\Debug\net6.0\Mottu-Projeto-Console.dll
+D:\Documentos\01 - Meus Projetos Dev\Teste-Mottu\Mottu-Projeto-Console\Mottu-Projeto-Console\bin\Debug\net6.0\Mottu-Projeto-Console.pdb
+D:\Documentos\01 - Meus Projetos Dev\Teste-Mottu\Mottu-Projeto-Console\Mottu-Projeto-Console\obj\Debug\net6.0\Mottu-Projeto-Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\01 - Meus Projetos Dev\Teste-Mottu\Mottu-Projeto-Console\Mottu-Projeto-Console\obj\Debug\net6.0\Mottu-Projeto-Console.AssemblyInfoInputs.cache
+D:\Documentos\01 - Meus Projetos Dev\Teste-Mottu\Mottu-Projeto-Console\Mottu-Projeto-Console\obj\Debug\net6.0\Mottu-Projeto-Console.AssemblyInfo.cs
+D:\Documentos\01 - Meus Projetos Dev\Teste-Mottu\Mottu-Projeto-Console\Mottu-Projeto-Console\obj\Debug\net6.0\Mottu-Projeto-Console.csproj.CoreCompileInputs.cache
+D:\Documentos\01 - Meus Projetos Dev\Teste-Mottu\Mottu-Projeto-Console\Mottu-Projeto-Console\obj\Debug\net6.0\Mottu-Projeto-Console.dll
+D:\Documentos\01 - Meus Projetos Dev\Teste-Mottu\Mottu-Projeto-Console\Mottu-Projeto-Console\obj\Debug\net6.0\refint\Mottu-Projeto-Console.dll
+D:\Documentos\01 - Meus Projetos Dev\Teste-Mottu\Mottu-Projeto-Console\Mottu-Projeto-Console\obj\Debug\net6.0\Mottu-Projeto-Console.pdb
+D:\Documentos\01 - Meus Projetos Dev\Teste-Mottu\Mottu-Projeto-Console\Mottu-Projeto-Console\obj\Debug\net6.0\Mottu-Projeto-Console.genruntimeconfig.cache
+D:\Documentos\01 - Meus Projetos Dev\Teste-Mottu\Mottu-Projeto-Console\Mottu-Projeto-Console\obj\Debug\net6.0\ref\Mottu-Projeto-Console.dll

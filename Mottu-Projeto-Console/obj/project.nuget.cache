@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VrGK+JiXQuWZYt6bFY/Xc7GjO93B8JviCMc0pYx9c7hTjKFdb4Gqwjuswe8HSQABv4WdbIsjBcv8pAqABjgwUg==",
+  "success": true,
+  "projectFilePath": "D:\\Documentos\\01 - Meus Projetos Dev\\Teste-Mottu\\Mottu-Projeto-Console\\Mottu-Projeto-Console\\Mottu-Projeto-Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ander\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\ander\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\ander\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\ander\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
